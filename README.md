@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**8X-B0/8X-B0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently working on the IBM certified Machine Learning course
 
-Here are some ideas to get you started:
+- I've just completed the HyperionDev bootcamp in Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I have a skillset based in Data Analytics & Visualisation in Python and Music Production, Promotion, and Soft Synth Design in Max MSP
+
+- Im looking to apply my skills to a Data Science role, (ideally, but not exclusively) in the Music and Sound Industry
+
+- Along the way, Im looking to learn and upskill as much as possible
+
+- Please feel free to contact me @: maxbuzuk87@gmail.com
+
